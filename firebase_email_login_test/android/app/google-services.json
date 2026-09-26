@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1001128188991",
+    "project_id": "skillra-auth-test",
+    "storage_bucket": "skillra-auth-test.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001128188991:android:6175857acda69f047cac8a",
+        "android_client_info": {
+          "package_name": "com.example.firebase_email_login_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpUhAujMEagqL11KpbftHJw9C4wvWMgBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
